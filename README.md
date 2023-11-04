@@ -11,6 +11,6 @@ Clone the repository or download the script file directly.
 Run the script with the following command:
 
 python3 decrypt_dtmf_to_text.py input_file
-- replace input_file with the path to your file containing DTMF digits in the format 77 666 7777 7 2 222 33 666 66...
+- replace input_file with the path to your file containing DTMF digits in the format 8 33 7777 8 0 666 88 8 7 88 8...
 
 The script will print the decoded string to the console.
